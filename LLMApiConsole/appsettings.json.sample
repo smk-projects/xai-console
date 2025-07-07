@@ -1,0 +1,9 @@
+{
+  "XAI": {
+    "ApiKey": "xai-9ACZGsNsT0vSUQE4ocRwptdGrQB52zjBr6WO1W1TmoqbPRX4WuIunJ5GqQkgsJTSXFG8sVTCx97vk1s9",
+    "ApiUrl": "https://api.x.ai/v1/chat/completions",
+    "Model": "grok-3",
+    "MaxTokens": 3000,
+    "Temperature": 0.7
+  }
+}
