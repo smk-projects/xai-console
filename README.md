@@ -25,8 +25,8 @@ LLMApiConsole/
   "XAI": {
     "ApiKey": "your-xai-api-key-here",
     "ApiUrl": "https://api.x.ai/v1/chat/completions",
-    "Model": "grok-beta",
-    "MaxTokens": 1000,
+    "Model": "grok-3",
+    "MaxTokens": 3000,
     "Temperature": 0.7
   }
 }
